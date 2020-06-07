@@ -2,4 +2,4 @@
 
 Deno Related Projects🦕
 
-Deno Offical Webiste https://deno.land/
+Deno Offical Website https://deno.land/
